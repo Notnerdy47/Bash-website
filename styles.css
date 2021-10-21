@@ -300,6 +300,10 @@ $gall-head{
   padding: 10rem 0;
 }
 
+p{
+  width: 422px;
+}
+
 .main__container {
   display: grid;
   grid-template-columns: 1fr 1fr;
