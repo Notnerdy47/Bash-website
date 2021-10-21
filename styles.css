@@ -138,6 +138,9 @@ $gall-head{
 @media screen and (max-width: 960px) {
 
 
+  .eventname{
+  width: 429px;
+}
 
 
   .navbar-container {
@@ -149,6 +152,8 @@ $gall-head{
      max-width: 1300px;
      padding: 0;
    }
+  
+  
 
    .navbar-menu {
      display: grid;
