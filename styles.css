@@ -300,7 +300,7 @@ $gall-head{
   }
 
   .hero__description {
-    font-size: 40px;
+    font-size: 36px;
   }
 }
 
@@ -349,7 +349,7 @@ p{
 }
 
 .main__content h2 {
-  font-size: 4rem;
+  font-size: 40px;
   background: #ff8177; /* fallback for old browsers */
   background: -webkit-linear-gradient(
     to right,
